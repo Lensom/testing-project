@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Testing Button component matches snapshot 1`] = `
+exports[`Testing Button component Matches snapshot 1`] = `
 <div>
   <button>
     Plus
@@ -9,5 +9,8 @@ exports[`Testing Button component matches snapshot 1`] = `
     Counter: 
     0
   </p>
+  <span>
+    Current day: 
+  </span>
 </div>
 `;
