@@ -1,6 +1,6 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import { describe, it, expect } from 'vitest';
-import CustomButton from '../../components/Button';
+import CustomButton from '@components/Button';
 
 describe('Testing Button component', () => {
   it('Click on button', async () => {
