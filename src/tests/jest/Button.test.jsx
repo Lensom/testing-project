@@ -1,5 +1,5 @@
 import React from 'react';
-import { expect, test } from '@jest/globals';
+import { describe, expect, test } from '@jest/globals';
 import { render, screen, fireEvent } from '@testing-library/react';
 import CustomButton from '../../components/Button';
 
